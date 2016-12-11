@@ -1,3 +1,8 @@
+## Quick project overview
+
+- built atop of [create react app](https://github.com/facebookincubator/create-react-app)
+- uses [redux](http://redux.js.org/) for state and user actions control
+
 ## Available Scripts
 
 ### `npm start`
