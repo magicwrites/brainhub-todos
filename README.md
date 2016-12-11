@@ -1,5 +1,10 @@
+## Code perfection
+
+- clean up html in components
+
 ## Features to consider
 
+- some styles to make it pretty
 - store the state of the application in a localstorage, and allow user to reset it
 - introduce react-redux-routing if more complicated features are to be introduced
 
