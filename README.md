@@ -2,7 +2,7 @@
 
 - built atop of [create react app](https://github.com/facebookincubator/create-react-app)
 - uses [redux](http://redux.js.org/) for state and user actions control
-- codebase is a slightly modified (redux example)[https://github.com/reactjs/redux/tree/master/examples/todos] 
+- codebase is a slightly modified [redux example](https://github.com/reactjs/redux/tree/master/examples/todos)
 
 ## Available Scripts
 
