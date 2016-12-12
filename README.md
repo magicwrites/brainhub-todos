@@ -22,14 +22,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
-## development todo:
-
-### Code perfection
-
-- clean up html in components
-
-### Features to consider
+## Features left out:
 
 - some styles to make it pretty
 - store the state of the application in a localstorage, and allow user to reset it
-- introduce react-redux-routing if more complicated features are to be introduced
